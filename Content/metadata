@@ -1,0 +1,87 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "Mariposa LUZ",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/19ec5760-33fa-4881-8c51-01da0826a682/237a8768-f0b6-404a-a0f6-ab6997f24a98.jpeg",
+		"publishedAt": "2024-12-26T07:18:50.986840Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/6aa74c1a-798f-4cd7-8307-5ab7279291c2/66cff624-b1d1-4b45-b987-bb2995473006.jpeg",
+		"title": "Mariposa LUZ",
+		"uid": "40082ba0-2e50-4914-850a-b71edb8133fb",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-w8fz7jjl9d5z6mv5g3x6ldafjrxpgu/backgroundImage/blob-1920x540-8f8bbe9b48def1c630142617dd490042.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-w8fz7jjl9d5z6mv5g3x6ldafjrxpgu/profileImage/blob-500x500-aec82c9be8df83a22f03619128298c79.jpg",
+			"sellerName": "laboratoriodemaic",
+			"uid": "a0e3cb0f-9103-4b5e-9720-98f38d5cc03b"
+		},
+		"tags": [
+			{
+				"name": "Butterfly",
+				"slug": "butterfly",
+				"uid": "cf8ccc7b-dbdd-4841-981d-84a46e2f245d"
+			}
+		],
+		"category":
+		{
+			"name": "Animales",
+			"path": "characters-creatures/animals",
+			"slug": "characters-creatures--animals",
+			"uid": "420b3aa9-2e54-4b62-ba75-70010a544efc"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "OBJ",
+					"groupName": "Formatos de intercambio 3D",
+					"code": "obj",
+					"icon": "cube",
+					"extensions": [
+						"obj"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Archivos convertidos",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "f4d862fa-5921-433d-ab0f-81eb862bf004",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "obj",
+	"fileId": "f9f46a07-b133-4f18-80fa-10a90a8b95e2",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "f4d862fa-5921-433d-ab0f-81eb862bf004",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}
